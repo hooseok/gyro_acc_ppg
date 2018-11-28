@@ -13,6 +13,7 @@ All datasets have copyrights. But you can freely use them for the Signal Process
 
 H. Lee, H. Chung and J. Lee, "Motion Artifact Cancellation in Wearable Photoplethysmography Using Gyroscope," in IEEE Sensors Journal.
 doi: 10.1109/JSEN.2018.2879970
+
 URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8529266&isnumber=4427201
 
 Exercise Experiment Protocol
